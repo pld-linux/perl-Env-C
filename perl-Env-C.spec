@@ -60,6 +60,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Env/*.pm
 %dir %{perl_vendorarch}/auto/Env
 %dir %{perl_vendorarch}/auto/Env/C
-%{perl_vendorarch}/auto/Env/C/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Env/C/*.so
 %{_mandir}/man3/*
