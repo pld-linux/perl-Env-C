@@ -4,7 +4,6 @@
 #
 %define		pdir	Env
 %define		pnam	C
-%include	/usr/lib/rpm/macros.perl
 Summary:	Env::C - Get/Set/Unset Environment Variables on the C level
 #Summary(pl.UTF-8):	
 Name:		perl-Env-C
