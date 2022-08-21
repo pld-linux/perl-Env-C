@@ -8,7 +8,7 @@ Summary:	Env::C - Get/Set/Unset Environment Variables on the C level
 #Summary(pl.UTF-8):	
 Name:		perl-Env-C
 Version:	0.08
-Release:	14
+Release:	15
 License:	Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Env/%{pdir}-%{pnam}-%{version}.tar.gz
